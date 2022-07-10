@@ -2,6 +2,6 @@
 Projet de fin d'étude de mon master
 
 
+Le pdf contient toutes les informations
 
-
-Lire le pdf pour toutes les explications
+Les csv contenants les données sont trop volumineux pour le repertoire
